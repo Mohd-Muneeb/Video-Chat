@@ -1,0 +1,16 @@
+{
+  "name": "vidcall",
+  "version": "1.0.0",
+  "description": "Video Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "Electron",
+    "WebSocket",
+    "Socket.io"
+  ],
+  "author": "Muneeb Mohd",
+  "license": "ISC"
+}
