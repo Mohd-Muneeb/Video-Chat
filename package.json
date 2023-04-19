@@ -12,5 +12,8 @@
     "Socket.io"
   ],
   "author": "Muneeb Mohd",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
